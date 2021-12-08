@@ -1,0 +1,10 @@
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\bin\Debug\TrafikLambasiSimilasyon.exe.config
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\bin\Debug\TrafikLambasiSimilasyon.exe
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\bin\Debug\TrafikLambasiSimilasyon.pdb
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.csproj.AssemblyReference.cache
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.Form1.resources
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.Properties.Resources.resources
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.csproj.GenerateResource.cache
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.csproj.CoreCompileInputs.cache
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.exe
+C:\Users\umut-\Desktop\TrafikLambasiSimilasyon\TrafikLambasiSimilasyon\obj\Debug\TrafikLambasiSimilasyon.pdb

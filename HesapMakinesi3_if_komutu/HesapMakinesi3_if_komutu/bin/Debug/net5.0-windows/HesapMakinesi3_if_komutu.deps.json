@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HesapMakinesi3_if_komutu/1.0.0": {
+        "runtime": {
+          "HesapMakinesi3_if_komutu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HesapMakinesi3_if_komutu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

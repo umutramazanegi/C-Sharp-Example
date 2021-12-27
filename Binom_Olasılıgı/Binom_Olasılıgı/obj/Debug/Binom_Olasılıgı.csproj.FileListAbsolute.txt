@@ -1,0 +1,10 @@
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\bin\Debug\Binom_Olasılıgı.exe.config
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\bin\Debug\Binom_Olasılıgı.exe
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\bin\Debug\Binom_Olasılıgı.pdb
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.csproj.AssemblyReference.cache
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.Form1.resources
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.Properties.Resources.resources
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.csproj.GenerateResource.cache
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.csproj.CoreCompileInputs.cache
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.exe
+C:\Users\umut-\Desktop\Binom_Olasılıgı\Binom_Olasılıgı\obj\Debug\Binom_Olasılıgı.pdb

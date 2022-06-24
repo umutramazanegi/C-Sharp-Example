@@ -1,0 +1,10 @@
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\bin\Debug\FinalOdevi.exe.config
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\bin\Debug\FinalOdevi.exe
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\bin\Debug\FinalOdevi.pdb
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.csproj.AssemblyReference.cache
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.Form1.resources
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.Properties.Resources.resources
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.csproj.GenerateResource.cache
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.csproj.CoreCompileInputs.cache
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.exe
+C:\Users\umut-\Desktop\Görsel Programlama\19701028_Umut Ramazan Eği_Final Ödevi\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.pdb
